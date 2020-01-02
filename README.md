@@ -115,7 +115,7 @@
 |[Java程序员面试笔试宝典](https://item.jd.com/11551720.html)|||||
 |[Java程序员面试笔试真题库](https://item.jd.com/12006683.html)|||||
 |[Head First设计模式](https://item.jd.com/10100236.html)|⭐⭐⭐||||
-|[Java核心技术卷1](https://item.jd.com/12759308.html)|⭐⭐⭐||||
+|[Java核心技术卷1](https://item.jd.com/12759308.html)|⭐⭐⭐|封面和前两章都不小心丢了...|||
 |[Java核心技术卷2](https://item.jd.com/18242894023.html)|⭐⭐⭐||||
 |[Effective Java](https://item.jd.com/38272773599.html)|⭐⭐⭐||||
 |[实战Java虚拟机](https://item.jd.com/12640292.html)|⭐⭐⭐⭐⭐||✅ ||
