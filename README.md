@@ -152,7 +152,7 @@
 |[SQL入门经典](https://item.jd.com/10871692.html)|||||
 |[TCP IP入门经典](https://item.jd.com/12357714.html)|||||
 |[微信小程序开发实战](https://item.jd.com/12147285.html)|||||
-|[Vim使用技巧](https://item.jd.com/27141262181.html)|⭐⭐⭐⭐⭐||||
+|[Vim使用技巧](https://item.jd.com/27141262181.html)|⭐⭐⭐⭐⭐||✅ ||
 
 ## Linux 基础书籍
 
