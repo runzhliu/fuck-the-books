@@ -35,6 +35,8 @@
 1. 对于我个人认为非常值得看的书，我会按照推荐程度打5到1个 ⭐
 2. 如果已经有同学联系过我要的书，我会在「送出」那一栏标记 ✅ ，否则就是 ⬜️
 
+P.S. 没打 ⭐ 不代表不推荐这本书哈，打了的代表我对这书印象很深，没打的是暂时回忆不出来，有空都会补上的。
+
 ## 教科书类书籍
 
 |书名|推荐|书本情况|送出|其他|
@@ -71,7 +73,7 @@
 |[深入理解Elasticsearch](https://item.jd.com/12203786.html)|||||
 |[Elasticsearch技术解析与实战](https://item.jd.com/12111652.html)|||||
 |[相关性搜索利用Solr与Elasticsearch创建智能应用](https://item.jd.com/61536415951.html)|||||
-|[深入理解Redsi](https://item.jd.com/12492931287.html)|⭐⭐⭐⭐||||
+|[深入理解Redis](https://item.jd.com/12492931287.html)|⭐⭐⭐⭐||||
 |[Redis实战](https://item.jd.com/11791607.html)|||||
 |[Solr实战](https://item.jd.com/24957427627.html)|||||
 |[Lucene实战](https://item.jd.com/10661841.html)|||||
