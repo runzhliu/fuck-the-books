@@ -175,9 +175,4 @@
 
 # 联系方式
 
-知乎私信不是很好用，经常收不到，如果私信我长时间没有回复，可以加我微信，备注一下「zhihu」，私聊我地址哈。
-
-![image_1dtgi7799eq61c0gncr4boqqhm.png-487.8kB][1]
-
-
-  [1]: http://static.zybuluo.com/runzhliu/gxh5uq7jflhs0pvw5awdhvt8/image_1dtgi7799eq61c0gncr4boqqhm.png
+各位想要书的朋友们，可以知乎私信我你们的地址和电话哈，确定好快递费就直接转支付宝即可 1096410784@qq.com。希望大家收到书之后都可以替我多看几遍！！！
