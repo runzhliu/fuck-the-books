@@ -65,7 +65,7 @@ P.S. 没打 ⭐ 不代表不推荐这本书哈，打了的代表我对这书印�
 |[快学Scala](https://item.jd.com/12224512.html)|⭐⭐⭐||||
 |[深入理解Scala](https://item.jd.com/40505042053.html)|||✅||
 |[Scala程序设计](https://item.jd.com/11901890.html)|||||
-|[高性能Scala](https://item.jd.com/12179386.html)|⭐⭐⭐⭐⭐||||
+|[高性能Scala](https://item.jd.com/12179386.html)|⭐⭐⭐⭐⭐||✅||
 |[响应式架构](https://item.jd.com/11972978.html)|||||
 |[Akka入门与实践](https://item.jd.com/12194510.html)|⭐⭐⭐⭐⭐||||
 
@@ -74,9 +74,9 @@ P.S. 没打 ⭐ 不代表不推荐这本书哈，打了的代表我对这书印�
 |书名|推荐|书本情况|送出|其他|
 |:---|:---|:---|:---|:---|
 |[深入理解Elasticsearch](https://item.jd.com/12203786.html)|||||
-|[深入理解Elasticsearch](https://item.jd.com/12203786.html)||全新的，手残多买了一本|||
-|[Elasticsearch技术解析与实战](https://item.jd.com/12111652.html)|||||
-|[相关性搜索利用Solr与Elasticsearch创建智能应用](https://item.jd.com/61536415951.html)|||||
+|[深入理解Elasticsearch](https://item.jd.com/12203786.html)||全新的，手残多买了一本|✅||
+|[Elasticsearch技术解析与实战](https://item.jd.com/12111652.html)|||✅||
+|[相关性搜索利用Solr与Elasticsearch创建智能应用](https://item.jd.com/61536415951.html)|||✅||
 |[深入理解Redis](https://item.jd.com/12492931287.html)|⭐⭐⭐⭐||✅||
 |[Redis实战](https://item.jd.com/11791607.html)|||✅||
 |[Solr实战](https://item.jd.com/24957427627.html)|||||
