@@ -131,7 +131,7 @@ P.S. 没打 ⭐ 不代表不推荐这本书哈，打了的代表我对这书印�
 |[Java8实战](https://item.jd.com/11917790.html)|||||
 |[轻量级JavaEE企业应用实战第4版](https://item.jd.com/11559101.html)|||||
 |[Java疯狂讲义](https://item.jd.com/46094804501.html)|⭐⭐⭐⭐⭐||✅||
-|[SpringBoot解密](https://item.jd.com/41441322350.html)|||||
+|[SpringBoot解密](https://item.jd.com/41441322350.html)|||✅||
 |[Spring Boot实战](https://item.jd.com/11969881.html)|||✅||
 |[Spring Boot2精髓](https://item.jd.com/12214143.html)|⭐⭐⭐⭐||✅ ||
 |[Spring实战](https://item.jd.com/11899370.html)|||✅||
