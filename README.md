@@ -135,7 +135,7 @@ P.S. 没打 ⭐ 不代表不推荐这本书哈，打了的代表我对这书印�
 |[Spring Boot实战](https://item.jd.com/11969881.html)|||✅||
 |[Spring Boot2精髓](https://item.jd.com/12214143.html)|⭐⭐⭐⭐||✅ ||
 |[Spring实战](https://item.jd.com/11899370.html)|||✅||
-|[Spring入门经典](https://item.jd.com/11789488.html)|||||
+|[Spring入门经典](https://item.jd.com/11789488.html)|||✅||
 |[Netty实战](https://item.jd.com/12070975.html)|⭐⭐⭐⭐⭐||✅ ||
 
 ## 杂七杂八类书籍
