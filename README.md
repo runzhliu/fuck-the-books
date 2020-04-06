@@ -93,7 +93,7 @@ P.S. 没打 ⭐ 不代表不推荐这本书哈，打了的代表我对这书印�
 |[企业大数据处理](https://item.jd.com/12189211.html)|⭐⭐⭐||✅||
 |[大数据平台基础架构指南](https://item.jd.com/12385129.html)|⭐⭐⭐⭐⭐||✅ ||
 |[Storm分布式实时计算模式](https://item.jd.com/11593386.html)|||||
-|[Hadoop权威指南](https://item.jd.com/12109713.html)|||||
+|[Hadoop权威指南](https://item.jd.com/12109713.html)|||✅||
 |[Hadoop构建数据仓库实践](https://item.jd.com/12213152.html)|||✅||
 |[HAWQ数据仓库与数据挖掘实战](https://item.jd.com/12345311.html)|||||
 |[HBase权威指南](https://item.jd.com/11321037.html)|||✅||
@@ -101,7 +101,7 @@ P.S. 没打 ⭐ 不代表不推荐这本书哈，打了的代表我对这书印�
 |[Learning HBase](https://item.jd.com/1791041363.html)|⭐⭐⭐||||
 |[Flume实战](https://item.jd.com/46913874207.html)|||||
 |[Learing ELK Stack](https://item.jd.com/11206302504.html)|⭐⭐⭐||✅||
-|[Hive编程指南](https://item.jd.com/11363739.html)|||||
+|[Hive编程指南](https://item.jd.com/11363739.html)|||✅||
 |[Hadoop 2.0-YARN核心技术实战](https://item.jd.com/11770396.html)|⭐⭐⭐⭐⭐||||
 |[Druid实时大数据分析原理与实践](https://item.jd.com/11780307225.html)|||||
 
