@@ -94,8 +94,8 @@ P.S. 没打 ⭐ 不代表不推荐这本书哈，打了的代表我对这书印�
 |[Hadoop权威指南](https://item.jd.com/12109713.html)|||||
 |[Hadoop构建数据仓库实践](https://item.jd.com/12213152.html)|||✅||
 |[HAWQ数据仓库与数据挖掘实战](https://item.jd.com/12345311.html)|||||
-|[HBase权威指南](https://item.jd.com/11321037.html)|||||
-|[Kafka入门与实战](https://item.jd.com/12220149.html)|||||
+|[HBase权威指南](https://item.jd.com/11321037.html)|||✅||
+|[Kafka入门与实战](https://item.jd.com/12220149.html)|||✅||
 |[Learning HBase](https://item.jd.com/1791041363.html)|⭐⭐⭐||||
 |[Flume实战](https://item.jd.com/46913874207.html)|||||
 |[Learing ELK Stack](https://item.jd.com/11206302504.html)|⭐⭐⭐||✅||
